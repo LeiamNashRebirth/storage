@@ -1,2 +1,1 @@
-# storage
-file system for my capstone 
+just a repository for uploading files 
