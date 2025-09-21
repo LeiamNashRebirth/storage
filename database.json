@@ -22,27 +22,7 @@
   "Messages": [],
   "Threads": {},
   "ConfessData": [],
-  "DiscussData": [
-    {
-      "id": "7ae221fe-e6c8-42c5-930f-41bcbafb86f2",
-      "uid": "416815913894324",
-      "username": "LuckyBlade226",
-      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-      "section": null,
-      "grade": null,
-      "title": "nano ni man",
-      "question": "hahahha yuoga ",
-      "time": "9:18:19 AM",
-      "date": "2025-09-21T01:18:19.223Z",
-      "attachment": [],
-      "type": null,
-      "likes": 0,
-      "pins": 0,
-      "liked": [],
-      "pinned": [],
-      "comments": []
-    }
-  ],
+  "DiscussData": [],
   "Comments": {},
   "ChatData": {},
   "Notifications": {},
