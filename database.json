@@ -22,27 +22,7 @@
   "Messages": [],
   "Threads": {},
   "ConfessData": [],
-  "DiscussData": [
-    {
-      "id": "969a918c-e1d6-4848-8a10-fde3c08bc083",
-      "uid": "416815913894324",
-      "username": "LuckyBlade226",
-      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-      "section": null,
-      "grade": null,
-      "title": "oh yawa",
-      "question": "hahah gagoo",
-      "time": "9:07:09 AM",
-      "date": "2025-09-21T01:07:09.227Z",
-      "attachment": [],
-      "type": null,
-      "likes": 0,
-      "pins": 0,
-      "liked": [],
-      "pinned": [],
-      "comments": []
-    }
-  ],
+  "DiscussData": [],
   "Comments": {},
   "ChatData": {},
   "Notifications": {},
