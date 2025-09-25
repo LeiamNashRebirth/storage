@@ -241,5 +241,16 @@
   "Comments": {},
   "ChatData": {},
   "Notifications": {},
-  "GlobalChat": []
+  "GlobalChat": [
+    {
+      "senderID": "812116561327276",
+      "name": "FastShadow452",
+      "grade": null,
+      "section": null,
+      "time": "2025-09-25T14:56:55.203Z",
+      "type": "text",
+      "attachment": null,
+      "message": "Bigaon leiam"
+    }
+  ]
 }
