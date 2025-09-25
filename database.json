@@ -37,15 +37,15 @@
       ]
     },
     {
-      "id": "5240926f-9974-43a1-b09a-59de90c2a2fd",
+      "id": "9c7c0f4d-832b-47d2-8fc7-0ac4781007a6",
       "uid": "416815913894324",
       "username": "LuckyBlade226",
       "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
       "section": null,
       "grade": null,
-      "time": "9:26:19 AM",
-      "date": "2025-09-21T01:26:19.704Z",
-      "text": "mga epic yanda dipota ka mga mango",
+      "time": "9:37:55 AM",
+      "date": "2025-09-21T01:37:55.055Z",
+      "text": "nano na ako paba",
       "attachment": [],
       "type": "image",
       "likes": 0,
@@ -57,15 +57,15 @@
       "comments": []
     },
     {
-      "id": "9c7c0f4d-832b-47d2-8fc7-0ac4781007a6",
+      "id": "5240926f-9974-43a1-b09a-59de90c2a2fd",
       "uid": "416815913894324",
       "username": "LuckyBlade226",
       "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
       "section": null,
       "grade": null,
-      "time": "9:37:55 AM",
-      "date": "2025-09-21T01:37:55.055Z",
-      "text": "nano na ako paba",
+      "time": "9:26:19 AM",
+      "date": "2025-09-21T01:26:19.704Z",
+      "text": "mga epic yanda dipota ka mga mango",
       "attachment": [],
       "type": "image",
       "likes": 0,
@@ -94,7 +94,20 @@
       "liked": [],
       "disliked": [],
       "pinned": [],
-      "comments": []
+      "comments": [
+        {
+          "uid": "812116561327276",
+          "id": "adb604c8-8dc4-44d6-b574-967bec91d4e5",
+          "date": "2025-09-25T14:55:44.917Z",
+          "time": "10:55:44 PM",
+          "username": "FastShadow452",
+          "section": null,
+          "grade": null,
+          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam2.jpeg",
+          "text": "So what",
+          "replies": []
+        }
+      ]
     }
   ],
   "UsersData": [
