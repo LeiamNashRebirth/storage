@@ -88,10 +88,12 @@
       "text": "I LOVE YOU BABY KOOOW",
       "attachment": [],
       "type": "image",
-      "likes": 0,
+      "likes": 1,
       "dislikes": 0,
       "pins": 0,
-      "liked": [],
+      "liked": [
+        "812116561327276"
+      ],
       "disliked": [],
       "pinned": [],
       "comments": [
