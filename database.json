@@ -137,7 +137,17 @@
           "grade": null,
           "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
           "text": "bkvkb",
-          "replies": []
+          "replies": [
+            {
+              "uid": "418250020686350",
+              "id": "2025-10-01T08:41:38.412Z",
+              "date": "2025-10-01T08:41:38.412Z",
+              "time": "4:41:38 PM",
+              "username": "FastBlade776",
+              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
+              "text": "vago"
+            }
+          ]
         },
         {
           "uid": "418250020686350",
