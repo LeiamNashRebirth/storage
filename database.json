@@ -21,111 +21,6 @@
       "comments": []
     },
     {
-      "id": "4c0f4c5d-d952-402e-ba4e-0b200518d835",
-      "uid": "416815913894324",
-      "username": "LuckyBlade226",
-      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-      "section": null,
-      "grade": null,
-      "time": "9:01:28 AM",
-      "date": "2025-10-10T01:01:28.045Z",
-      "text": "test ",
-      "attachment": [],
-      "type": "image",
-      "likes": 0,
-      "dislikes": 0,
-      "pins": 0,
-      "liked": [],
-      "disliked": [],
-      "pinned": [],
-      "comments": [
-        {
-          "uid": "416815913894324",
-          "date": "2025-10-10T01:01:46.114Z",
-          "time": "9:01:46 AM",
-          "username": "LuckyBlade226",
-          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-          "text": "nako po ang yawang bottom navigation",
-          "replies": [
-            {
-              "uid": "416815913894324",
-              "id": "2025-10-10T01:01:53.300Z",
-              "date": "2025-10-10T01:01:53.300Z",
-              "time": "9:01:53 AM",
-              "username": "LuckyBlade226",
-              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-              "text": "ano ganito nalang ba"
-            }
-          ],
-          "id": "742a9e3e-aaa5-4989-bfba-17094234e6e8"
-        }
-      ]
-    },
-    {
-      "id": "cbd1d5cf-627f-44a1-a187-6c0694aecfed",
-      "uid": "418250020686350",
-      "username": "FastBlade776",
-      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
-      "section": null,
-      "grade": null,
-      "time": "10:53:47 PM",
-      "date": "2025-09-25T14:53:47.136Z",
-      "text": "I LOVE YOU BABY KOOOW",
-      "attachment": [],
-      "type": "image",
-      "likes": 1,
-      "dislikes": 0,
-      "pins": 0,
-      "liked": [
-        "812116561327276"
-      ],
-      "disliked": [],
-      "pinned": [],
-      "comments": [
-        {
-          "uid": "812116561327276",
-          "id": "adb604c8-8dc4-44d6-b574-967bec91d4e5",
-          "date": "2025-09-25T14:55:44.917Z",
-          "time": "10:55:44 PM",
-          "username": "FastShadow452",
-          "section": null,
-          "grade": null,
-          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam2.jpeg",
-          "text": "So what",
-          "replies": [
-            {
-              "uid": "418250020686350",
-              "id": "2025-10-01T08:38:18.454Z",
-              "date": "2025-10-01T08:38:18.455Z",
-              "time": "4:38:18 PM",
-              "username": "FastBlade776",
-              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
-              "text": ""
-            },
-            {
-              "uid": "418250020686350",
-              "id": "2025-10-01T08:38:22.827Z",
-              "date": "2025-10-01T08:38:22.828Z",
-              "time": "4:38:22 PM",
-              "username": "FastBlade776",
-              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "uid": "416815913894324",
-          "date": "2025-10-10T01:04:49.452Z",
-          "time": "9:04:49 AM",
-          "username": "LuckyBlade226",
-          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
-          "text": "daw hdjdjjfjf fhd fjfj juid: user?.id,\n        date: new Date().toISOString(),\n        time: new Date().toLocaleTimeString(),\n        username: user?.name,\n        icon: user?.icon,\n        text: commentText.trim(),\n        replies: [],",
-          "replies": [],
-          "id": "2d6ee3f7-c496-47dc-8b2c-18f1fa923c71"
-        }
-      ]
-    },
-    {
       "id": "9c7c0f4d-832b-47d2-8fc7-0ac4781007a6",
       "uid": "416815913894324",
       "username": "LuckyBlade226",
@@ -196,6 +91,111 @@
       ]
     },
     {
+      "id": "cbd1d5cf-627f-44a1-a187-6c0694aecfed",
+      "uid": "418250020686350",
+      "username": "FastBlade776",
+      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
+      "section": null,
+      "grade": null,
+      "time": "10:53:47 PM",
+      "date": "2025-09-25T14:53:47.136Z",
+      "text": "I LOVE YOU BABY KOOOW",
+      "attachment": [],
+      "type": "image",
+      "likes": 1,
+      "dislikes": 0,
+      "pins": 0,
+      "liked": [
+        "812116561327276"
+      ],
+      "disliked": [],
+      "pinned": [],
+      "comments": [
+        {
+          "uid": "812116561327276",
+          "id": "adb604c8-8dc4-44d6-b574-967bec91d4e5",
+          "date": "2025-09-25T14:55:44.917Z",
+          "time": "10:55:44 PM",
+          "username": "FastShadow452",
+          "section": null,
+          "grade": null,
+          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam2.jpeg",
+          "text": "So what",
+          "replies": [
+            {
+              "uid": "418250020686350",
+              "id": "2025-10-01T08:38:18.454Z",
+              "date": "2025-10-01T08:38:18.455Z",
+              "time": "4:38:18 PM",
+              "username": "FastBlade776",
+              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
+              "text": ""
+            },
+            {
+              "uid": "418250020686350",
+              "id": "2025-10-01T08:38:22.827Z",
+              "date": "2025-10-01T08:38:22.828Z",
+              "time": "4:38:22 PM",
+              "username": "FastBlade776",
+              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam15.jpeg",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "uid": "416815913894324",
+          "date": "2025-10-10T01:04:49.452Z",
+          "time": "9:04:49 AM",
+          "username": "LuckyBlade226",
+          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
+          "text": "daw hdjdjjfjf fhd fjfj juid: user?.id,\n        date: new Date().toISOString(),\n        time: new Date().toLocaleTimeString(),\n        username: user?.name,\n        icon: user?.icon,\n        text: commentText.trim(),\n        replies: [],",
+          "replies": [],
+          "id": "2d6ee3f7-c496-47dc-8b2c-18f1fa923c71"
+        }
+      ]
+    },
+    {
+      "id": "4c0f4c5d-d952-402e-ba4e-0b200518d835",
+      "uid": "416815913894324",
+      "username": "LuckyBlade226",
+      "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
+      "section": null,
+      "grade": null,
+      "time": "9:01:28 AM",
+      "date": "2025-10-10T01:01:28.045Z",
+      "text": "test ",
+      "attachment": [],
+      "type": "image",
+      "likes": 0,
+      "dislikes": 0,
+      "pins": 0,
+      "liked": [],
+      "disliked": [],
+      "pinned": [],
+      "comments": [
+        {
+          "uid": "416815913894324",
+          "date": "2025-10-10T01:01:46.114Z",
+          "time": "9:01:46 AM",
+          "username": "LuckyBlade226",
+          "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
+          "text": "nako po ang yawang bottom navigation",
+          "replies": [
+            {
+              "uid": "416815913894324",
+              "id": "2025-10-10T01:01:53.300Z",
+              "date": "2025-10-10T01:01:53.300Z",
+              "time": "9:01:53 AM",
+              "username": "LuckyBlade226",
+              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
+              "text": "ano ganito nalang ba"
+            }
+          ],
+          "id": "742a9e3e-aaa5-4989-bfba-17094234e6e8"
+        }
+      ]
+    },
+    {
       "id": "73615d68-20d9-4441-8528-d53ac34a66f3",
       "uid": "416815913894324",
       "username": "LuckyBlade226",
@@ -209,13 +209,15 @@
       "type": "image",
       "likes": 2,
       "dislikes": 0,
-      "pins": 0,
+      "pins": 1,
       "liked": [
         "416815913894324",
         "418829894479293"
       ],
       "disliked": [],
-      "pinned": [],
+      "pinned": [
+        "416815913894324"
+      ],
       "comments": [
         {
           "uid": "418250020686350",
