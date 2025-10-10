@@ -205,7 +205,17 @@
           "username": "LuckyBlade226",
           "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
           "text": "nako po ang yawang bottom navigation",
-          "replies": [],
+          "replies": [
+            {
+              "uid": "416815913894324",
+              "id": "2025-10-10T01:01:53.300Z",
+              "date": "2025-10-10T01:01:53.300Z",
+              "time": "9:01:53 AM",
+              "username": "LuckyBlade226",
+              "icon": "https://raw.githubusercontent.com/LeiamNashRebirth/storage/refs/heads/main/pfp/leiam10.jpeg",
+              "text": "ano ganito nalang ba"
+            }
+          ],
           "id": "742a9e3e-aaa5-4989-bfba-17094234e6e8"
         }
       ]
